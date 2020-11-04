@@ -1,8 +1,7 @@
 # Introduction
 
-![](https://github.com/Manvityagi/Atlan-Challenge---Long-Running-Task-Manager/blob/master/images/start.PNG)
 
-**Task State Manager** is an implementation of an upload/download system in which the functionality of pausing/resuming/terminating the task at hand is poosible.
+**Task State Manager** is an implementation of an upload/download system in which the functionality of pausing/resuming/terminating the task at hand is possible.
 
 ## ❓ Problem Statement
 
