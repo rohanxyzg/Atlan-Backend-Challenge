@@ -17,7 +17,6 @@
 
 ```
 # clone the repository to your local machine
-$ git clone https://github.com/Manvityagi/Atlan-Challenge---Long-Running-Task-Manager.git
 
 # navigate to the project's directory and install all the relevant dev-dependencies
 $ cd Atlan-Challenge---Long-Running-Task-Manager 
