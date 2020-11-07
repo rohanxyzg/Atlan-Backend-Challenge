@@ -20,7 +20,7 @@
 $ git clone https://github.com/rohanxyzg/Atlan-Backend-Challenge.git
 
 # navigate to the project's directory and install all the relevant dev-dependencies
-$ cd Atlan-Challenge---Long-Running-Task-Manager 
+$ cd Atlan-Backend-Challenge
 
 # Run
 $ docker-compose up -d --build
